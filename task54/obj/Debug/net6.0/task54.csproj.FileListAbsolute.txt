@@ -1,0 +1,16 @@
+C:\Examples\task54\bin\Debug\net6.0\task54.exe
+C:\Examples\task54\bin\Debug\net6.0\task54.deps.json
+C:\Examples\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+C:\Examples\task54\bin\Debug\net6.0\task54.dll
+C:\Examples\task54\bin\Debug\net6.0\ref\task54.dll
+C:\Examples\task54\bin\Debug\net6.0\task54.pdb
+C:\Examples\task54\obj\Debug\net6.0\task54.GlobalUsings.g.cs
+C:\Examples\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+C:\Examples\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+C:\Examples\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+C:\Examples\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+C:\Examples\task54\obj\Debug\net6.0\task54.dll
+C:\Examples\task54\obj\Debug\net6.0\ref\task54.dll
+C:\Examples\task54\obj\Debug\net6.0\task54.pdb
+C:\Examples\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
