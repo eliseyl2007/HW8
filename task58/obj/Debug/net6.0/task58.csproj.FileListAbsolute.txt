@@ -1,0 +1,6 @@
+C:\Examples\task58\obj\Debug\net6.0\task58.GlobalUsings.g.cs
+C:\Examples\task58\obj\Debug\net6.0\task58.csproj.AssemblyReference.cache
+C:\Examples\task58\obj\Debug\net6.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Examples\task58\obj\Debug\net6.0\task58.AssemblyInfoInputs.cache
+C:\Examples\task58\obj\Debug\net6.0\task58.AssemblyInfo.cs
+C:\Examples\task58\obj\Debug\net6.0\task58.csproj.CoreCompileInputs.cache
